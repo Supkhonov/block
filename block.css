@@ -1,0 +1,14 @@
+.box {
+    height: 200px;
+    background-color: aqua;
+}
+.container {
+    display: flex;
+}
+.box1 {
+    width: 500px;
+    height: 200px;
+    background-color: aqua;
+    margin: 20px 0px ;
+    margin-right: 20px;
+}
